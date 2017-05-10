@@ -10,3 +10,4 @@ __pycache__/
 # Source data
 /data_ex4/
 *.jpg
+*.npy
