@@ -11,3 +11,4 @@ __pycache__/
 /data_ex4/
 *.jpg
 *.npy
+*.avi
